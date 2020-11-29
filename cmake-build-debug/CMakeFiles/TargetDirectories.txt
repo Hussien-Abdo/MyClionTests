@@ -1,0 +1,3 @@
+C:/Users/Intel/CLionProjects/MyClionTests/cmake-build-debug/CMakeFiles/MyClionTests.dir
+C:/Users/Intel/CLionProjects/MyClionTests/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Intel/CLionProjects/MyClionTests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
